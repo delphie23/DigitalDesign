@@ -1,0 +1,28 @@
+# valid proximity key
+# 10.8.10 2:04
+# ( : open bracket
+# ) : close bracket
+# a : variables
+# ' : uniary operation
+# * : binary operation
+
+# you can only begin with "(" or "a".
+# you can only finish with ")" or "a" or "'".
+
+((
+(a
+
+))
+)'
+)*
+
+a)
+a'
+a*
+
+')
+''
+'*
+
+*(
+*a

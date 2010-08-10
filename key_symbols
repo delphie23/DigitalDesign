@@ -1,0 +1,38 @@
+# valid symbols key.
+# 10.8.10 2:04
+
+# values
+0
+1
+
+# brackets
+(
+)
+
+# uniary operators
+# not
+'
+
+# binary operators
+# and
+*
+# or
++
+
+# unique binary operators
+# nor
+-+
+# nand
+-*
+# xor
+^
+# xnor
+-^
+# implies->
+>
+# <-implies
+<
+# but->
+->
+# <-but
+-<
