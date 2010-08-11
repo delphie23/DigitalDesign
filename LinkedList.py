@@ -19,5 +19,5 @@ class LinkedNode:
 		self.__checkNext__(next)
 		self._next = next
 
-class LinkedList:
-	@staticmethod
+#class LinkedList:
+#	@staticmethod
